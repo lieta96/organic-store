@@ -1,8 +1,35 @@
 .filter-button{
     background-color:#fff;
-    height:70px;
-    width:70px;
+    height:80px;
+    width:80px;
     border-radius: 50%;
     border: 0;
     outline:none;
+    margin-bottom: 15px;
+}
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    margin: 20px;
+    font-size: 20px;
+    color: #618f49;
+}
+.filter-button-img{
+    height: 45px;
+    filter: invert(62%) sepia(28%) saturate(675%) hue-rotate(55deg) brightness(101%) contrast(85%);
+}
+.filter-button:hover{
+    -webkit-box-shadow: 0px 0px 10px 9px rgba(0,153,48,0.1);
+    -moz-box-shadow: 0px 0px 10px 9px rgba(0,153,48,0.1);
+    box-shadow: 0px 0px 10px 9px rgba(0,153,48,0.1);
+}
+.filters-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.nuestros-productos{
+    color:#618f49;
 }

@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Raleway:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 /* Paleta colores https://paletton.com/#uid=32M0F0klllldDsAhmnSpkiOt2e5 */
 .App {
   text-align: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .main-image{
   height: 200px;
@@ -27,7 +28,7 @@
 
 .App {
   
-background: rgb(124,181,94);
+background: #7cb55e;
 background: linear-gradient(180deg,rgba(249,255,164,1) 0%, rgba(124,181,94,1)  100%);
   min-height: 100vh;
   display: flex;

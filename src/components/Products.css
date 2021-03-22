@@ -6,11 +6,7 @@
     cursor: pointer;
     margin: 5px;
 }
-.product-gallery{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
+
 .image-container{
     overflow: hidden;
 }
