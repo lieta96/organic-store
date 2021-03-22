@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/organic-store/static/css/main.b98f064f.chunk.css",
+    "main.js": "/organic-store/static/js/main.9251584c.chunk.js",
+    "main.js.map": "/organic-store/static/js/main.9251584c.chunk.js.map",
+    "runtime-main.js": "/organic-store/static/js/runtime-main.559074af.js",
+    "runtime-main.js.map": "/organic-store/static/js/runtime-main.559074af.js.map",
+    "static/js/2.ee5468de.chunk.js": "/organic-store/static/js/2.ee5468de.chunk.js",
+    "static/js/2.ee5468de.chunk.js.map": "/organic-store/static/js/2.ee5468de.chunk.js.map",
+    "static/js/3.1b423c8a.chunk.js": "/organic-store/static/js/3.1b423c8a.chunk.js",
+    "static/js/3.1b423c8a.chunk.js.map": "/organic-store/static/js/3.1b423c8a.chunk.js.map",
+    "index.html": "/organic-store/index.html",
+    "static/css/main.b98f064f.chunk.css.map": "/organic-store/static/css/main.b98f064f.chunk.css.map",
+    "static/js/2.ee5468de.chunk.js.LICENSE.txt": "/organic-store/static/js/2.ee5468de.chunk.js.LICENSE.txt",
+    "static/media/all-products-logo.43a2b781.svg": "/organic-store/static/media/all-products-logo.43a2b781.svg",
+    "static/media/cold-drinks-logo.b30380c9.svg": "/organic-store/static/media/cold-drinks-logo.b30380c9.svg",
+    "static/media/header-img.89bc3f88.png": "/organic-store/static/media/header-img.89bc3f88.png",
+    "static/media/hot-drinks-logo.22260e93.svg": "/organic-store/static/media/hot-drinks-logo.22260e93.svg",
+    "static/media/logo.6ce24c58.svg": "/organic-store/static/media/logo.6ce24c58.svg",
+    "static/media/piece-of-cake-logo.2b394f41.svg": "/organic-store/static/media/piece-of-cake-logo.2b394f41.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.559074af.js",
+    "static/js/2.ee5468de.chunk.js",
+    "static/css/main.b98f064f.chunk.css",
+    "static/js/main.9251584c.chunk.js"
+  ]
+}
